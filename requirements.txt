@@ -1,0 +1,2 @@
+# Requires: proto-stillness
+# (Not available on PyPI)
